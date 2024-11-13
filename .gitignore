@@ -1,3 +1,6 @@
+# Environment files
+.env  
+
 # Logs
 logs
 *.log
@@ -12,8 +15,6 @@ dist
 dist-ssr
 *.local
 
-# Environment files
-.env  
 
 
 # Editor directories and files
