@@ -2,9 +2,6 @@
 
 Drag & Drop sticky notes App built with React JS and Appwite.
 
-This project is part of a video tutorial which will be posted on the [Free Code Camp](https://www.youtube.com/@freecodecamp) youtube channel.
-
-
 <img src="demo.gif"/>
 
 ### Features
