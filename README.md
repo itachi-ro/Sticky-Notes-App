@@ -4,7 +4,6 @@ Drag & Drop sticky notes App built with React JS and Appwite.
 
 This project is part of a video tutorial which will be posted on the [Free Code Camp](https://www.youtube.com/@freecodecamp) youtube channel.
 
-Link will be provided here 👉 (LINK) once the video is posted.
 
 <img src="demo.gif"/>
 
@@ -23,6 +22,6 @@ Link will be provided here 👉 (LINK) once the video is posted.
 -   Setup Appwrite backend with database (See database details below)
 -   Create `.env` file (use `.env.example` as a reference) and update appwrite credentials
 
-### Appwrite backend
+<!-- ### Appwrite backend
 
-(Comming soon....)
+(Comming soon....) -->
